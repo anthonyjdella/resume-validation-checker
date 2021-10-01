@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "anthonyjdella-resume-schema": "^1.0.0",
+    "resume-schema": "^1.0.0"
+  }
+}
